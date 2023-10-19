@@ -3,24 +3,30 @@
 **PROJECT PROPOSAL**
 
 **Net IDs**
+
 The NetIDs working on this project are pbromen2.
 Since this is a solo project I will be the captain.
 
 **Theme: 5 - Free Topic**
+
 Using LLMs and Textual Analysis to build an application to create Minnesota expungement legal  paperwork.
 
 **What is the task?**
+
 The task is to create an application that will take user supplied data and create a first draft paperwork needed to file an expungement case with the state of Minnesota. This documentation will then be reviewed by a lawyer before being filed with the courts.
 
 **Is it novel?**
+
 While many are working on using LLMs in the legal space, I believe this project to be a novel application of recent text analysis and processing breakthroughs.
 
 **Why is it important or interesting?**
+
 Expungement is the process of getting low level arrests and convictions off of a person’s record. It has come into focus as a key social justice/equity need as contact in the legal systems prevents many groups from reaching their full potential.
 
 I have partnered with a lawyer and former classmate, and we believe that by combining LLMs with other APIs I can create a tool that will reduce the amount of work expungements required by as much as 70%.
 
 **What is your planned approach?**
+
 My planned approach is to create 
 flow map of the current process
 Determine which elements questions are suitable for LLMs and which are more suitable for traditional programming.
